@@ -1,0 +1,142 @@
+% !TeX root = HistoryIA.tex
+
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\makeatletter
+
+% TEXT STYLING
+%---------------------------------------------------------------------------------------------------------%
+\usepackage[T1]{fontenc}     % We are using pdfLaTeX,
+\usepackage[utf8]{inputenc}  % hence this preparation
+\usepackage{csquotes}
+\usepackage[english]{babel}
+\usepackage{fancyhdr}
+\usepackage{wrapfig}
+\newcommand{\subtitle}[1]{\\ 
+    \begin{large}
+        \textbf{#1}
+    \end{large}   
+}
+\usepackage[
+    left = \flqq{},% 
+    right = \frqq{},% 
+    leftsub = \flq{},% 
+    rightsub = \frq{} %
+]{dirtytalk}
+\usepackage{ragged2e}
+\usepackage{setspace}
+\usepackage{relsize}
+\usepackage{indentfirst}
+\doublespacing
+\usepackage[toc,page]{appendix}
+\usepackage{amsthm, amsfonts, amssymb, amsmath}
+\usepackage{tabularx, caption2, blindtext}
+%---------------------------------------------------------------------------------------------------------%
+
+%% LINKS
+%---------------------------------------------------------------------------------------------------------%
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	pdftitle={Extended Essay},
+	urlcolor=blue,
+	breaklinks=true,
+	citecolor=blue,
+	linktocpage=true
+}
+%---------------------------------------------------------------------------------------------------------%
+
+%% BIBLIOGRAPHY SETTINGS
+%---------------------------------------------------------------------------------------------------------%
+\usepackage[
+notes,
+backend=biber,
+sorting=nyt
+]{biblatex-chicago}
+\addbibresource{Bib/History_IA.bib}
+%---------------------------------------------------------------------------------------------------------%
+
+%% TOC SETTINGS
+%---------------------------------------------------------------------------------------------------------%
+\usepackage{titlesec}
+\addto\captionsenglish{\renewcommand*\contentsname{Contents}}
+\usepackage{tocbibind}
+%---------------------------------------------------------------------------------------------------------%
+
+%% PAGE GEOMETRY
+%---------------------------------------------------------------------------------------------------------%
+\usepackage[includehead,
+nomarginpar,
+right=1in,left=1in,
+headheight=12pt,
+bottom=1in,
+footnotesep=20pt,
+top=60pt
+]{geometry}
+\geometry{letterpaper}
+\renewcommand{\footruleskip}{20pt}
+%---------------------------------------------------------------------------------------------------------%
+
+%% NUMBERING
+%---------------------------------------------------------------------------------------------------------%
+\numberwithin{equation}{section}
+\numberwithin{figure}{section}
+%---------------------------------------------------------------------------------------------------------%
+
+%% COUNTERS
+%---------------------------------------------------------------------------------------------------------%
+
+\setcounter{tocdepth}{1} % Show sections
+\setcounter{tocdepth}{2} % + subsections
+\setcounter{tocdepth}{3} % + subsubsections
+%---------------------------------------------------------------------------------------------------------%
+
+%% DATA
+%---------------------------------------------------------------------------------------------------------%
+\usepackage{pgfplots}
+\pgfplotsset{compat = 1.18}
+\pgfplotstableread{DATA/cottonexps.dat}{\table}
+%---------------------------------------------------------------------------------------------------------%
+
+\usepackage{subfiles}
+
+\title{Title!
+\subtitle{Research Question :3}}
+\author{Meow}
+\date{Word Count :3}
+
+\begin{document}
+
+\clearpage\maketitle
+\thispagestyle{empty}
+\newpage
+
+\pagenumbering{roman}
+\tableofcontents
+\newpage
+
+\pagenumbering{arabic}
+\renewcommand{\thesection}{\arabic{section}}
+
+%% HEADERS / FOOTERS
+%---------------------------------------------------------------------------------------------------------%
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+
+%% SECTIONS
+%---------------------------------------------------------------------------------------------------------%
+\section{Section A}
+\subfile{SECTIONS/section_A.tex}
+
+\section{Section B}
+\subfile{SECTIONS/section_B.tex}
+
+\section{Section C} 
+\subfile{SECTIONS/section_C.tex}
+%---------------------------------------------------------------------------------------------------------%
+
+\printbibliography
+
+\end{document}
