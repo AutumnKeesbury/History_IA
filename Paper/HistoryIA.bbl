@@ -19,48 +19,63 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global/global}
-    \entry{ginzbergeconomicsbritish1936}{article}{}{}
+    \entry{davismessagespapers1966}{book}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=af73c63c8cf89bdf8809ab2885eb1193}{%
-           family={Ginzberg},
-           familyi={G\bibinitperiod},
-           given={Eli},
-           giveni={E\bibinitperiod},
+        {{un=0,uniquepart=base,hash=84f1a54268cc9ee66e20ef6a596a4f4b}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Jefferson},
+           giveni={J\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {Agricultural History Society}%
+      \name{editor}{2}{}{%
+        {{hash=b088b1c645c2abc93378b1c16dcef540}{%
+           family={Nevins},
+           familyi={N\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d17cf565cd704bd13ab9ff66942da5fb}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={James\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
-      \strng{namehash}{af73c63c8cf89bdf8809ab2885eb1193}
-      \strng{fullhash}{af73c63c8cf89bdf8809ab2885eb1193}
-      \strng{fullhashraw}{af73c63c8cf89bdf8809ab2885eb1193}
-      \strng{bibnamehash}{af73c63c8cf89bdf8809ab2885eb1193}
-      \strng{authorbibnamehash}{af73c63c8cf89bdf8809ab2885eb1193}
-      \strng{authornamehash}{af73c63c8cf89bdf8809ab2885eb1193}
-      \strng{authorfullhash}{af73c63c8cf89bdf8809ab2885eb1193}
-      \strng{authorfullhashraw}{af73c63c8cf89bdf8809ab2885eb1193}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \list{publisher}{1}{%
+        {New York, Chelsea House-R. Hector}%
+      }
+      \strng{namehash}{84f1a54268cc9ee66e20ef6a596a4f4b}
+      \strng{fullhash}{84f1a54268cc9ee66e20ef6a596a4f4b}
+      \strng{fullhashraw}{84f1a54268cc9ee66e20ef6a596a4f4b}
+      \strng{bibnamehash}{84f1a54268cc9ee66e20ef6a596a4f4b}
+      \strng{authorbibnamehash}{84f1a54268cc9ee66e20ef6a596a4f4b}
+      \strng{authornamehash}{84f1a54268cc9ee66e20ef6a596a4f4b}
+      \strng{authorfullhash}{84f1a54268cc9ee66e20ef6a596a4f4b}
+      \strng{authorfullhashraw}{84f1a54268cc9ee66e20ef6a596a4f4b}
+      \strng{editorbibnamehash}{82551434416a6c5ed74d0187261df188}
+      \strng{editornamehash}{82551434416a6c5ed74d0187261df188}
+      \strng{editorfullhash}{82551434416a6c5ed74d0187261df188}
+      \strng{editorfullhashraw}{82551434416a6c5ed74d0187261df188}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{00021482, 15338290}
-      \field{journaltitle}{Agricultural History}
-      \field{number}{4}
-      \field{title}{The Economics of British Neutrality during the American Civil War}
-      \field{urlday}{21}
+      \field{abstract}{2 v. 25 cm; Previously published under title: A compilation of the messages and papers of the Confederacy, including the diplomatic correspondence, 1861-1865}
+      \field{langid}{english}
+      \field{pagetotal}{790}
+      \field{title}{The Messages and Papers of {{Jefferson Davis}} and the {{Confederacy}}, Including Diplomatic Correspondence, 1861-1865}
+      \field{urlday}{1}
       \field{urlmonth}{11}
       \field{urlyear}{2024}
-      \field{volume}{10}
-      \field{year}{1936}
+      \field{year}{1966}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{147\bibrangedash 156}
-      \range{pages}{10}
       \verb{urlraw}
-      \verb http://www.jstor.org/stable/3739625
+      \verb http://archive.org/details/messagespapersof02conf
       \endverb
       \verb{url}
-      \verb http://www.jstor.org/stable/3739625
+      \verb http://archive.org/details/messagespapersof02conf
       \endverb
+      \keyw{Confederate States of America -- Politics and government}
     \endentry
     \entry{u.s.congressImportsduties1884}{report}{}{}
       \name{author}{1}{}{%
