@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,46 +18,107 @@
 
 
 \refsection{0}
-  \datalist[entry]{nyt/global//global/global/global}
-    \entry{davismessagespapers1966}{book}{}{}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{baileyOtherSide1994}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=84f1a54268cc9ee66e20ef6a596a4f4b}{%
-           family={Davis},
-           familyi={D\bibinitperiod},
-           given={Jefferson},
-           giveni={J\bibinitperiod},
+        {{un=0,uniquepart=base,hash=ca76bbde5f37a5c9679b21804318f8ca}{%
+           family={Bailey},
+           familyi={B\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod},
            givenun=0}}%
       }
+      \list{publisher}{1}{%
+        {Agricultural History Society}%
+      }
+      \strng{namehash}{ca76bbde5f37a5c9679b21804318f8ca}
+      \strng{fullhash}{ca76bbde5f37a5c9679b21804318f8ca}
+      \strng{bibnamehash}{ca76bbde5f37a5c9679b21804318f8ca}
+      \strng{authorbibnamehash}{ca76bbde5f37a5c9679b21804318f8ca}
+      \strng{authornamehash}{ca76bbde5f37a5c9679b21804318f8ca}
+      \strng{authorfullhash}{ca76bbde5f37a5c9679b21804318f8ca}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{jstor}
+      \field{issn}{00021482, 15338290}
+      \field{journaltitle}{Agricultural History}
+      \field{number}{2}
+      \field{title}{The {{Other Side}} of {{Slavery}}: {{Black Labor}}, {{Cotton}}, and {{Textile Industrialization}} in {{Great Britain}} and the {{United States}}}
+      \field{urlday}{1}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{volume}{68}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{35\bibrangedash 50}
+      \range{pages}{16}
+      \verb{eprint}
+      \verb 3744401
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/3744401
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/3744401
+      \endverb
+    \endentry
+    \entry{u.s.congressImportsduties1884}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38864dff545a8df68db46011bb51e197}{%
+           family={House\bibnamedelimb of\bibnamedelima Representatives},
+           familyi={H\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={U.S.\bibnamedelimi Congress},
+           giveni={U\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {48th Cong., 1st. sess.}%
+      }
+      \strng{namehash}{38864dff545a8df68db46011bb51e197}
+      \strng{fullhash}{38864dff545a8df68db46011bb51e197}
+      \strng{bibnamehash}{38864dff545a8df68db46011bb51e197}
+      \strng{authorbibnamehash}{38864dff545a8df68db46011bb51e197}
+      \strng{authornamehash}{38864dff545a8df68db46011bb51e197}
+      \strng{authorfullhash}{38864dff545a8df68db46011bb51e197}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A compilation of foreign commodities imported and entered for consumption in the United States ; showing the quantities, values, rates of duty, amount of duty received, the average cost, and duties reduced to an equivalent ad valorem rate ; summaries of the values and duties of the principal class or groups ; also, values and duties received and expense at each Customs district and port of delivery ; with schedules of the articles, quantities, and values admitted free of duty, viz: transfers from bond to manufacturing warehouse, materials used in the construction and equipment of vessels, from dominion of Canada, \&c., from the Hawaiian Islands, and salt used in curing fish, during the fiscal years ended June 30, 1867 to 1883, inclusive}
+      \field{title}{H. Misc. Doc. no. 49}
+      \field{year}{1884}
+      \field{dateera}{ce}
+    \endentry
+    \entry{davismessagespapers1966}{book}{}
       \name{editor}{2}{}{%
-        {{hash=b088b1c645c2abc93378b1c16dcef540}{%
+        {{un=0,uniquepart=base,hash=b088b1c645c2abc93378b1c16dcef540}{%
            family={Nevins},
            familyi={N\bibinitperiod},
            given={Allan},
-           giveni={A\bibinitperiod}}}%
-        {{hash=d17cf565cd704bd13ab9ff66942da5fb}{%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d17cf565cd704bd13ab9ff66942da5fb}{%
            family={Richardson},
            familyi={R\bibinitperiod},
            given={James\bibnamedelima D.},
-           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {New York, Chelsea House-R. Hector}%
       }
-      \strng{namehash}{84f1a54268cc9ee66e20ef6a596a4f4b}
-      \strng{fullhash}{84f1a54268cc9ee66e20ef6a596a4f4b}
-      \strng{fullhashraw}{84f1a54268cc9ee66e20ef6a596a4f4b}
-      \strng{bibnamehash}{84f1a54268cc9ee66e20ef6a596a4f4b}
-      \strng{authorbibnamehash}{84f1a54268cc9ee66e20ef6a596a4f4b}
-      \strng{authornamehash}{84f1a54268cc9ee66e20ef6a596a4f4b}
-      \strng{authorfullhash}{84f1a54268cc9ee66e20ef6a596a4f4b}
-      \strng{authorfullhashraw}{84f1a54268cc9ee66e20ef6a596a4f4b}
+      \strng{namehash}{82551434416a6c5ed74d0187261df188}
+      \strng{fullhash}{82551434416a6c5ed74d0187261df188}
+      \strng{bibnamehash}{82551434416a6c5ed74d0187261df188}
       \strng{editorbibnamehash}{82551434416a6c5ed74d0187261df188}
       \strng{editornamehash}{82551434416a6c5ed74d0187261df188}
       \strng{editorfullhash}{82551434416a6c5ed74d0187261df188}
-      \strng{editorfullhashraw}{82551434416a6c5ed74d0187261df188}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labelnamesource}{author}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{abstract}{2 v. 25 cm; Previously published under title: A compilation of the messages and papers of the Confederacy, including the diplomatic correspondence, 1861-1865}
       \field{langid}{english}
@@ -77,36 +138,7 @@
       \endverb
       \keyw{Confederate States of America -- Politics and government}
     \endentry
-    \entry{u.s.congressImportsduties1884}{report}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=38864dff545a8df68db46011bb51e197}{%
-           family={House\bibnamedelimb of\bibnamedelima Representatives},
-           familyi={H\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim R\bibinitperiod},
-           given={U.S.\bibnamedelimi Congress},
-           giveni={U\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {48th Cong., 1st. sess.}%
-      }
-      \strng{namehash}{38864dff545a8df68db46011bb51e197}
-      \strng{fullhash}{38864dff545a8df68db46011bb51e197}
-      \strng{fullhashraw}{38864dff545a8df68db46011bb51e197}
-      \strng{bibnamehash}{38864dff545a8df68db46011bb51e197}
-      \strng{authorbibnamehash}{38864dff545a8df68db46011bb51e197}
-      \strng{authornamehash}{38864dff545a8df68db46011bb51e197}
-      \strng{authorfullhash}{38864dff545a8df68db46011bb51e197}
-      \strng{authorfullhashraw}{38864dff545a8df68db46011bb51e197}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A compilation of foreign commodities imported and entered for consumption in the United States ; showing the quantities, values, rates of duty, amount of duty received, the average cost, and duties reduced to an equivalent ad valorem rate ; summaries of the values and duties of the principal class or groups ; also, values and duties received and expense at each Customs district and port of delivery ; with schedules of the articles, quantities, and values admitted free of duty, viz: transfers from bond to manufacturing warehouse, materials used in the construction and equipment of vessels, from dominion of Canada, \&c., from the Hawaiian Islands, and salt used in curing fish, during the fiscal years ended June 30, 1867 to 1883, inclusive}
-      \field{title}{H. Misc. Doc. no. 49}
-      \field{year}{1884}
-      \field{dateera}{ce}
-    \endentry
-    \entry{northeconomicgrowth1966}{book}{}{}
+    \entry{northeconomicgrowth1966}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c0fec5aafb39c19c83981c55d98973ce}{%
            family={North},
@@ -123,12 +155,10 @@
       }
       \strng{namehash}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{fullhash}{c0fec5aafb39c19c83981c55d98973ce}
-      \strng{fullhashraw}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{bibnamehash}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{authorbibnamehash}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{authornamehash}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{authorfullhash}{c0fec5aafb39c19c83981c55d98973ce}
-      \strng{authorfullhashraw}{c0fec5aafb39c19c83981c55d98973ce}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labelnamesource}{author}
