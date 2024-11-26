@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{nyt/global//global/global}
-    \entry{baileyOtherSide1994}{article}{}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{baileyOtherSide1994}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ca76bbde5f37a5c9679b21804318f8ca}{%
            family={Bailey},
@@ -33,10 +33,12 @@
       }
       \strng{namehash}{ca76bbde5f37a5c9679b21804318f8ca}
       \strng{fullhash}{ca76bbde5f37a5c9679b21804318f8ca}
+      \strng{fullhashraw}{ca76bbde5f37a5c9679b21804318f8ca}
       \strng{bibnamehash}{ca76bbde5f37a5c9679b21804318f8ca}
       \strng{authorbibnamehash}{ca76bbde5f37a5c9679b21804318f8ca}
       \strng{authornamehash}{ca76bbde5f37a5c9679b21804318f8ca}
       \strng{authorfullhash}{ca76bbde5f37a5c9679b21804318f8ca}
+      \strng{authorfullhashraw}{ca76bbde5f37a5c9679b21804318f8ca}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
@@ -65,7 +67,7 @@
       \verb http://www.jstor.org/stable/3744401
       \endverb
     \endentry
-    \entry{u.s.congressImportsduties1884}{report}{}
+    \entry{u.s.congressImportsduties1884}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=38864dff545a8df68db46011bb51e197}{%
            family={House\bibnamedelimb of\bibnamedelima Representatives},
@@ -79,10 +81,12 @@
       }
       \strng{namehash}{38864dff545a8df68db46011bb51e197}
       \strng{fullhash}{38864dff545a8df68db46011bb51e197}
+      \strng{fullhashraw}{38864dff545a8df68db46011bb51e197}
       \strng{bibnamehash}{38864dff545a8df68db46011bb51e197}
       \strng{authorbibnamehash}{38864dff545a8df68db46011bb51e197}
       \strng{authornamehash}{38864dff545a8df68db46011bb51e197}
       \strng{authorfullhash}{38864dff545a8df68db46011bb51e197}
+      \strng{authorfullhashraw}{38864dff545a8df68db46011bb51e197}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
@@ -92,7 +96,7 @@
       \field{year}{1884}
       \field{dateera}{ce}
     \endentry
-    \entry{davismessagespapers1966}{book}{}
+    \entry{davismessagespapers1966}{book}{}{}
       \name{editor}{2}{}{%
         {{un=0,uniquepart=base,hash=b088b1c645c2abc93378b1c16dcef540}{%
            family={Nevins},
@@ -112,10 +116,12 @@
       }
       \strng{namehash}{82551434416a6c5ed74d0187261df188}
       \strng{fullhash}{82551434416a6c5ed74d0187261df188}
+      \strng{fullhashraw}{82551434416a6c5ed74d0187261df188}
       \strng{bibnamehash}{82551434416a6c5ed74d0187261df188}
       \strng{editorbibnamehash}{82551434416a6c5ed74d0187261df188}
       \strng{editornamehash}{82551434416a6c5ed74d0187261df188}
       \strng{editorfullhash}{82551434416a6c5ed74d0187261df188}
+      \strng{editorfullhashraw}{82551434416a6c5ed74d0187261df188}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labelnamesource}{editor}
@@ -138,7 +144,7 @@
       \endverb
       \keyw{Confederate States of America -- Politics and government}
     \endentry
-    \entry{northeconomicgrowth1966}{book}{}
+    \entry{northeconomicgrowth1966}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c0fec5aafb39c19c83981c55d98973ce}{%
            family={North},
@@ -155,10 +161,12 @@
       }
       \strng{namehash}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{fullhash}{c0fec5aafb39c19c83981c55d98973ce}
+      \strng{fullhashraw}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{bibnamehash}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{authorbibnamehash}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{authornamehash}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{authorfullhash}{c0fec5aafb39c19c83981c55d98973ce}
+      \strng{authorfullhashraw}{c0fec5aafb39c19c83981c55d98973ce}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labelnamesource}{author}
