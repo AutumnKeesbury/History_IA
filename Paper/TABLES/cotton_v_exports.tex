@@ -22,9 +22,9 @@
 	scaled y ticks=manual:{}{\pgfmathparse{#1 / 10^7}},
 ]
 
-\addplot[thick, black!80!white] table [x = {Year}, y = {Total_Cotton_Export}] {\table};
+\addplot[thick, black!80!white] table [x = {Year}, y = {Total_Cotton_Export}] {DATA/cottonexps.dat};
 
-\addplot[thick, dashed] table [x ={Year}, y = {Raw_Cotton_Export}] {\table};
+\addplot[thick, dashed] table [x ={Year}, y = {Raw_Cotton_Export}] {DATA/cottonexps.dat};
 
 \end{axis}
 

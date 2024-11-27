@@ -1,6 +1,6 @@
 % !TeX root = ../HistoryIA.tex
 
-\autocites(The data for figure \ref{fig.: B.1} comes from:)()[(Total Exports)][Table A-III]{northeconomicgrowth1966}[(Cotton Exports)][Part 2, Table 2]{u.s.congressImportsduties1884}
+\autocites(The data for figure \ref{fig:1} comes from:)()[(Total Exports)][Table A-III]{northeconomicgrowth1966}[(Cotton Exports)][Part 2, Table 2]{u.s.congressImportsduties1884}
 On the eve of the American Civil War, U.S. cotton accounted for over 88\% of the cotton imported into Great Britain \autocite[40]{baileyOtherSide1994}. This 
 cotton was, as noted by Joseph Inikori, the key to the English economy in the mid-19th century: 
 \begin{quote}
@@ -11,11 +11,20 @@ The importance of this economic relationship for the Confederate cause was not l
 foreign policy towards England throughout the course of the war. However, the extent to which this was an effective diplomatic strategy is not comparably evident,
 and is the central focus of this investigation. 
 
-\begin{wrapfigure}{R}{0.5\textwidth}\label{fig.: B.1}
-    \input{TABLES/cotton_v_exports.tex}
-    \captionof{figure}{Value (hundreds of millions of dollars) of Total Exports 
-                (solid) and of Total Raw Cotton Exports (dashed) in the U.S.: 1815-1860
-    }
-\end{wrapfigure}  
 
 In the continental United States, in the time leading up to the war, the amount and value of exported goods skyrocketed, and, though by 1860 the 
+
+\begin{figure}
+    \centering
+    \subfloat[caption]{
+        \input{TABLES/cotton_v_exports.tex}
+        \label{fig:subfig1}
+    }
+    \hfill
+    \subfloat[caption]{
+        \input{TABLES/percentage_xports.tex}
+        \label{fig:subfig2}
+    }
+    \caption{Caption for figure 1}
+    \label{fig:1}
+\end{figure}

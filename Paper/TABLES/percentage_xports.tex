@@ -1,0 +1,29 @@
+\begin{tikzpicture}
+    \begin{axis}[
+        grid = both,
+        major grid style = {lightgray},
+        minor grid style = {lightgray!50},
+        minor tick num = 1,
+        xticklabel style={
+            /pgf/number format/1000 sep=,
+            rotate=0,anchor=north,
+            font=\scriptsize
+        },
+        y tick label style={
+            /pgf/number format/.cd,
+            fixed,
+            fixed zerofill,
+            precision=0,
+            /tikz/.cd,
+            font=\scriptsize
+        },
+        ymin=0,
+        ymax= 300000000,
+        scaled y ticks=manual:{}{\pgfmathparse{#1 / 10^7}},
+    ]
+    
+    \addplot[thick, black!80!white] table [x = {Year}, y = {Percent}] {DATA/output.dat};
+    
+    \end{axis}
+    
+    \end{tikzpicture}

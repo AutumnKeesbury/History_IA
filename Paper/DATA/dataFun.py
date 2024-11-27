@@ -36,9 +36,9 @@ print("Column 3:", column3)
 print(len(column1))
 
 def percentage(i, j):
-    return i/j * 100
+    return column3[i]/column2[j] * 100
 
-percents = [column1, percentage(column3, column2)]
+percents = [ [column1[i], percentage(i,i)] for i in range(len(column1)) ]
 
 out_path = 'output.dat'
-np.savetxt(out_path, percents, delimiter="\t", fmt='%.0f')
+np.savetxt(out_path, percents, delimiter="\t", fmt='%.2f')
