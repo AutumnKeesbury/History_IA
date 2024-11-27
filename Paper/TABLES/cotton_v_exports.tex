@@ -1,8 +1,17 @@
 \begin{tikzpicture}
+	\pgfplotsset{
+        y axis style/.style={
+            yticklabel style=#1,
+            ylabel style=#1,
+            y axis line style=#1,
+            ytick style=#1
+       }
+    }
 \begin{axis}[
+	axis y line*=left,
 	grid = both,
-	major grid style = {lightgray},
-	minor grid style = {lightgray!50},
+	major grid style = {gray},
+	minor grid style = {lightgray},
 	minor tick num = 1,
 	xticklabel style={
 		/pgf/number format/1000 sep=,
@@ -20,12 +29,39 @@
 	ymin=0,
 	ymax= 300000000,
 	scaled y ticks=manual:{}{\pgfmathparse{#1 / 10^7}},
+	xlabel={Year},
+	ylabel={Value, $10^8$} USD
 ]
 
 \addplot[thick, black!80!white] table [x = {Year}, y = {Total_Cotton_Export}] {DATA/cottonexps.dat};
 
 \addplot[thick, dashed] table [x ={Year}, y = {Raw_Cotton_Export}] {DATA/cottonexps.dat};
 
+\end{axis}
+
+\begin{axis}[
+	axis y line*=right,
+	minor tick num = 1,
+	xticklabel style={
+		/pgf/number format/1000 sep=,
+		rotate=0,anchor=north,
+		font=\scriptsize
+	},
+	y tick label style={
+		/pgf/number format/.cd,
+		fixed,
+		fixed zerofill,
+		precision=0,
+		/tikz/.cd,
+		font=\scriptsize
+	},
+	ymin=20,
+	ymax= 80,
+	y axis style=red!80!black,
+	ylabel={Percent}
+	]
+	\addplot[thick, red!75!black, opacity=0.5] table [x={Year}, y={Percent}] {DATA/output.dat};
+	
 \end{axis}
 
 \end{tikzpicture}

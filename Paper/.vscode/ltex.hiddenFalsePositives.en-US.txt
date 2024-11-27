@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QTotal value of exports from the United StatesTable A_III]northeconomicgrowth1966 () and total value of raw cotton exports\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q (- - -); Percentage of total value of U.S. exports coming from cotton ().\\E$"}
