@@ -114,7 +114,8 @@ top=60pt
 \newpage
 
 \pagenumbering{arabic}
-\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesection}{Section \Alph{section}}
+\renewcommand{\thefigure}{\Alph{section}.\roman{figure}}
 
 %% HEADERS / FOOTERS
 %---------------------------------------------------------------------------------------------------------%
@@ -124,13 +125,13 @@ top=60pt
 
 %% SECTIONS
 %---------------------------------------------------------------------------------------------------------%
-\section{Section A}
+\section{}
 \input{SECTIONS/section_A.tex}
 
-\section{Section B}
+\section{}
 \input{SECTIONS/section_B.tex}
 
-\section{Section C} 
+\section{} 
 \input{SECTIONS/section_C.tex}
 %---------------------------------------------------------------------------------------------------------%
 
