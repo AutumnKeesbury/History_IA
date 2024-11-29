@@ -96,6 +96,33 @@
       \field{year}{1884}
       \field{dateera}{ce}
     \endentry
+    \entry{mcphersonBattleCry1988}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e0783ca6bc52e7271001ce0bac1a9b88}{%
+           family={McPherson},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{e0783ca6bc52e7271001ce0bac1a9b88}
+      \strng{fullhash}{e0783ca6bc52e7271001ce0bac1a9b88}
+      \strng{fullhashraw}{e0783ca6bc52e7271001ce0bac1a9b88}
+      \strng{bibnamehash}{e0783ca6bc52e7271001ce0bac1a9b88}
+      \strng{authorbibnamehash}{e0783ca6bc52e7271001ce0bac1a9b88}
+      \strng{authornamehash}{e0783ca6bc52e7271001ce0bac1a9b88}
+      \strng{authorfullhash}{e0783ca6bc52e7271001ce0bac1a9b88}
+      \strng{authorfullhashraw}{e0783ca6bc52e7271001ce0bac1a9b88}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Battle Cry of Freedom: The Civil War Era}
+      \field{year}{1988}
+    \endentry
     \entry{davismessagespapers1966}{book}{}{}
       \name{editor}{2}{}{%
         {{un=0,uniquepart=base,hash=b088b1c645c2abc93378b1c16dcef540}{%
@@ -130,12 +157,10 @@
       \field{langid}{english}
       \field{pagetotal}{790}
       \field{title}{The Messages and Papers of {{Jefferson Davis}} and the {{Confederacy}}, Including Diplomatic Correspondence, 1861-1865}
-      \field{urlday}{1}
-      \field{urlmonth}{11}
-      \field{urlyear}{2024}
+      \field{volume}{II}
+      \field{volumes}{II}
       \field{year}{1966}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{urlraw}
       \verb http://archive.org/details/messagespapersof02conf
       \endverb
