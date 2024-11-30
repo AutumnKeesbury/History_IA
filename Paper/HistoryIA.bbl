@@ -161,32 +161,46 @@
       \verb http://www.jstor.org/stable/3744401
       \endverb
     \endentry
-    \entry{u.s.congressImportsduties1884}{report}{}
+    \entry{ginzbergeconomicsbritish1936}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=38864dff545a8df68db46011bb51e197}{%
-           family={House\bibnamedelimb of\bibnamedelima Representatives},
-           familyi={H\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim R\bibinitperiod},
-           given={U.S.\bibnamedelimi Congress},
-           giveni={U\bibinitperiod\bibinitdelim C\bibinitperiod},
+        {{un=0,uniquepart=base,hash=af73c63c8cf89bdf8809ab2885eb1193}{%
+           family={Ginzberg},
+           familyi={G\bibinitperiod},
+           given={Eli},
+           giveni={E\bibinitperiod},
            givenun=0}}%
       }
-      \list{institution}{1}{%
-        {48th Cong., 1st. sess.}%
+      \list{publisher}{1}{%
+        {Agricultural History Society}%
       }
-      \strng{namehash}{38864dff545a8df68db46011bb51e197}
-      \strng{fullhash}{38864dff545a8df68db46011bb51e197}
-      \strng{bibnamehash}{38864dff545a8df68db46011bb51e197}
-      \strng{authorbibnamehash}{38864dff545a8df68db46011bb51e197}
-      \strng{authornamehash}{38864dff545a8df68db46011bb51e197}
-      \strng{authorfullhash}{38864dff545a8df68db46011bb51e197}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \strng{namehash}{af73c63c8cf89bdf8809ab2885eb1193}
+      \strng{fullhash}{af73c63c8cf89bdf8809ab2885eb1193}
+      \strng{bibnamehash}{af73c63c8cf89bdf8809ab2885eb1193}
+      \strng{authorbibnamehash}{af73c63c8cf89bdf8809ab2885eb1193}
+      \strng{authornamehash}{af73c63c8cf89bdf8809ab2885eb1193}
+      \strng{authorfullhash}{af73c63c8cf89bdf8809ab2885eb1193}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{A compilation of foreign commodities imported and entered for consumption in the United States ; showing the quantities, values, rates of duty, amount of duty received, the average cost, and duties reduced to an equivalent ad valorem rate ; summaries of the values and duties of the principal class or groups ; also, values and duties received and expense at each Customs district and port of delivery ; with schedules of the articles, quantities, and values admitted free of duty, viz: transfers from bond to manufacturing warehouse, materials used in the construction and equipment of vessels, from dominion of Canada, \&c., from the Hawaiian Islands, and salt used in curing fish, during the fiscal years ended June 30, 1867 to 1883, inclusive}
-      \field{title}{H. Misc. Doc. no. 49}
-      \field{year}{1884}
-      \field{dateera}{ce}
+      \field{issn}{00021482, 15338290}
+      \field{journaltitle}{Agricultural History}
+      \field{number}{4}
+      \field{title}{The Economics of British Neutrality during the American Civil War}
+      \field{urlday}{21}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{volume}{10}
+      \field{year}{1936}
+      \field{urldateera}{ce}
+      \field{pages}{147\bibrangedash 156}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/3739625
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/3739625
+      \endverb
     \endentry
     \entry{mcphersonBattleCry1988}{book}{}
       \name{author}{1}{}{%
@@ -289,6 +303,108 @@
       \field{series}{The {{Norton}} Library}
       \field{title}{The Economic Growth of the {{United States}} 1790 - 1860}
       \field{year}{1966}
+      \field{dateera}{ce}
+    \endentry
+    \entry{owsleyIrrepressibleConflict1930}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ef2da17c07eda3d27193a4ae55ff68c1}{%
+           family={Owsley},
+           familyi={O\bibinitperiod},
+           given={Frank\bibnamedelima Lawrence},
+           giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Harper \& Brothers}%
+      }
+      \strng{namehash}{ef2da17c07eda3d27193a4ae55ff68c1}
+      \strng{fullhash}{ef2da17c07eda3d27193a4ae55ff68c1}
+      \strng{bibnamehash}{ef2da17c07eda3d27193a4ae55ff68c1}
+      \strng{authorbibnamehash}{ef2da17c07eda3d27193a4ae55ff68c1}
+      \strng{authornamehash}{ef2da17c07eda3d27193a4ae55ff68c1}
+      \strng{authorfullhash}{ef2da17c07eda3d27193a4ae55ff68c1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{The Irrepressible Conflict}
+      \field{title}{I'll Take My Stand: The South and the Agrarian Tradition}
+      \field{year}{1930}
+      \field{pages}{61\bibrangedash 91}
+      \range{pages}{31}
+    \endentry
+    \entry{steeleOntologicalSecurity2005}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1ac65bc955e268d52c45ec94a0d9780e}{%
+           family={Steele},
+           familyi={S\bibinitperiod},
+           given={Brent\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{1ac65bc955e268d52c45ec94a0d9780e}
+      \strng{fullhash}{1ac65bc955e268d52c45ec94a0d9780e}
+      \strng{bibnamehash}{1ac65bc955e268d52c45ec94a0d9780e}
+      \strng{authorbibnamehash}{1ac65bc955e268d52c45ec94a0d9780e}
+      \strng{authornamehash}{1ac65bc955e268d52c45ec94a0d9780e}
+      \strng{authorfullhash}{1ac65bc955e268d52c45ec94a0d9780e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{[Why did Great Britain remain neutral during the American Civil War? Although several historical arguments have been put forth, few studies have explicitly used International Relations (IR) theories to understand this decision. Synthesising a discursive approach with an ontological security interpretation, I propose an alternative framework for understanding security-seeking behaviour and threats to identity. I assess the impact Abraham Lincoln's Emancipation Proclamation had upon the interventionist debates in Great Britain. I argue that the Proclamation reframed interventionist debates, thus (re)engendering the British anxiety over slavery and removing intervention as a viable policy. I conclude by proposing several issues relevant to using an ontological security interpretation in future IR studies.]}
+      \field{eprinttype}{jstor}
+      \field{issn}{02602105, 14699044}
+      \field{journaltitle}{Review of International Studies}
+      \field{number}{3}
+      \field{title}{Ontological {{Security}} and the {{Power}} of {{Self-Identity}}: {{British Neutrality}} and the {{American Civil War}}}
+      \field{urlday}{1}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{volume}{31}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{519\bibrangedash 540}
+      \range{pages}{22}
+      \verb{eprint}
+      \verb 40072087
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/40072087
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/40072087
+      \endverb
+    \endentry
+    \entry{u.s.congressImportsduties1884}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=64100b7a9fdd838d2fbb8327201d29b9}{%
+           family={U.S.\bibnamedelimi Congress},
+           familyi={U\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={House\bibnamedelimb of\bibnamedelima Representatives},
+           giveni={H\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {48th Cong., 1st. sess.}%
+      }
+      \strng{namehash}{64100b7a9fdd838d2fbb8327201d29b9}
+      \strng{fullhash}{64100b7a9fdd838d2fbb8327201d29b9}
+      \strng{bibnamehash}{64100b7a9fdd838d2fbb8327201d29b9}
+      \strng{authorbibnamehash}{64100b7a9fdd838d2fbb8327201d29b9}
+      \strng{authornamehash}{64100b7a9fdd838d2fbb8327201d29b9}
+      \strng{authorfullhash}{64100b7a9fdd838d2fbb8327201d29b9}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A compilation of foreign commodities imported and entered for consumption in the United States ; showing the quantities, values, rates of duty, amount of duty received, the average cost, and duties reduced to an equivalent ad valorem rate ; summaries of the values and duties of the principal class or groups ; also, values and duties received and expense at each Customs district and port of delivery ; with schedules of the articles, quantities, and values admitted free of duty, viz: transfers from bond to manufacturing warehouse, materials used in the construction and equipment of vessels, from dominion of Canada, \&c., from the Hawaiian Islands, and salt used in curing fish, during the fiscal years ended June 30, 1867 to 1883, inclusive}
+      \field{title}{H. Misc. Doc. no. 49}
+      \field{year}{1884}
       \field{dateera}{ce}
     \endentry
   \enddatalist
