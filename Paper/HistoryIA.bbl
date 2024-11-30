@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,104 @@
 
 
 \refsection{0}
-  \datalist[entry]{nyt/global//global/global/global}
-    \entry{baileyOtherSide1994}{article}{}{}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{adamsBritainAmericanWar1925}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=208fa55c352e54085d750935f77320d4}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={Ephraim\bibnamedelima Douglass},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Longmans, Green \& Co. Ltd.}%
+      }
+      \strng{namehash}{208fa55c352e54085d750935f77320d4}
+      \strng{fullhash}{208fa55c352e54085d750935f77320d4}
+      \strng{bibnamehash}{208fa55c352e54085d750935f77320d4}
+      \strng{authorbibnamehash}{208fa55c352e54085d750935f77320d4}
+      \strng{authornamehash}{208fa55c352e54085d750935f77320d4}
+      \strng{authorfullhash}{208fa55c352e54085d750935f77320d4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Great Britain and the American Civil War}
+      \field{volumes}{II}
+      \field{year}{1925}
+    \endentry
+    \entry{arnoldHistoryCotton1864}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=24c3fc05db4a16fd433bc30862ba03e9}{%
+           family={Arnold},
+           familyi={A\bibinitperiod},
+           given={R.\bibnamedelimi Arthur},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {London, Saunders, Otley, and Co.}%
+      }
+      \strng{namehash}{24c3fc05db4a16fd433bc30862ba03e9}
+      \strng{fullhash}{24c3fc05db4a16fd433bc30862ba03e9}
+      \strng{bibnamehash}{24c3fc05db4a16fd433bc30862ba03e9}
+      \strng{authorbibnamehash}{24c3fc05db4a16fd433bc30862ba03e9}
+      \strng{authornamehash}{24c3fc05db4a16fd433bc30862ba03e9}
+      \strng{authorfullhash}{24c3fc05db4a16fd433bc30862ba03e9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{pagetotal}{570}
+      \field{title}{The {{History}} of the {{Cotton Famine}}, {{From}} the {{Fall}} of {{Sumter}} to the {{Passing}} of the {{Public Works Act}}}
+      \field{year}{1864}
+      \field{dateera}{ce}
+    \endentry
+    \entry{arthi2022recessions}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=40ba1d2a9e5b88eac8983c6d1b46ca24}{%
+           family={Arthi},
+           familyi={A\bibinitperiod},
+           given={Vellore},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acf4e178e88981fa2e464c2489f58474}{%
+           family={Beach},
+           familyi={B\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b310e4d7fc60b4fa93edafd4f9913d8}{%
+           family={Hanlon},
+           familyi={H\bibinitperiod},
+           given={W\bibnamedelima Walker},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203-2425}%
+      }
+      \strng{namehash}{9ac137315c1b592228f6b3ddea0a8b36}
+      \strng{fullhash}{9ac137315c1b592228f6b3ddea0a8b36}
+      \strng{bibnamehash}{9ac137315c1b592228f6b3ddea0a8b36}
+      \strng{authorbibnamehash}{9ac137315c1b592228f6b3ddea0a8b36}
+      \strng{authornamehash}{9ac137315c1b592228f6b3ddea0a8b36}
+      \strng{authorfullhash}{9ac137315c1b592228f6b3ddea0a8b36}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Journal: Applied Economics}
+      \field{number}{2}
+      \field{title}{Recessions, mortality, and migration bias: Evidence from the Lancashire cotton famine}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{pages}{228\bibrangedash 255}
+      \range{pages}{28}
+    \endentry
+    \entry{baileyOtherSide1994}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ca76bbde5f37a5c9679b21804318f8ca}{%
            family={Bailey},
@@ -33,12 +129,10 @@
       }
       \strng{namehash}{ca76bbde5f37a5c9679b21804318f8ca}
       \strng{fullhash}{ca76bbde5f37a5c9679b21804318f8ca}
-      \strng{fullhashraw}{ca76bbde5f37a5c9679b21804318f8ca}
       \strng{bibnamehash}{ca76bbde5f37a5c9679b21804318f8ca}
       \strng{authorbibnamehash}{ca76bbde5f37a5c9679b21804318f8ca}
       \strng{authornamehash}{ca76bbde5f37a5c9679b21804318f8ca}
       \strng{authorfullhash}{ca76bbde5f37a5c9679b21804318f8ca}
-      \strng{authorfullhashraw}{ca76bbde5f37a5c9679b21804318f8ca}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
@@ -67,7 +161,7 @@
       \verb http://www.jstor.org/stable/3744401
       \endverb
     \endentry
-    \entry{u.s.congressImportsduties1884}{report}{}{}
+    \entry{u.s.congressImportsduties1884}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=38864dff545a8df68db46011bb51e197}{%
            family={House\bibnamedelimb of\bibnamedelima Representatives},
@@ -81,12 +175,10 @@
       }
       \strng{namehash}{38864dff545a8df68db46011bb51e197}
       \strng{fullhash}{38864dff545a8df68db46011bb51e197}
-      \strng{fullhashraw}{38864dff545a8df68db46011bb51e197}
       \strng{bibnamehash}{38864dff545a8df68db46011bb51e197}
       \strng{authorbibnamehash}{38864dff545a8df68db46011bb51e197}
       \strng{authornamehash}{38864dff545a8df68db46011bb51e197}
       \strng{authorfullhash}{38864dff545a8df68db46011bb51e197}
-      \strng{authorfullhashraw}{38864dff545a8df68db46011bb51e197}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
@@ -96,7 +188,7 @@
       \field{year}{1884}
       \field{dateera}{ce}
     \endentry
-    \entry{mcphersonBattleCry1988}{book}{}{}
+    \entry{mcphersonBattleCry1988}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e0783ca6bc52e7271001ce0bac1a9b88}{%
            family={McPherson},
@@ -110,12 +202,10 @@
       }
       \strng{namehash}{e0783ca6bc52e7271001ce0bac1a9b88}
       \strng{fullhash}{e0783ca6bc52e7271001ce0bac1a9b88}
-      \strng{fullhashraw}{e0783ca6bc52e7271001ce0bac1a9b88}
       \strng{bibnamehash}{e0783ca6bc52e7271001ce0bac1a9b88}
       \strng{authorbibnamehash}{e0783ca6bc52e7271001ce0bac1a9b88}
       \strng{authornamehash}{e0783ca6bc52e7271001ce0bac1a9b88}
       \strng{authorfullhash}{e0783ca6bc52e7271001ce0bac1a9b88}
-      \strng{authorfullhashraw}{e0783ca6bc52e7271001ce0bac1a9b88}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
@@ -123,7 +213,7 @@
       \field{title}{Battle Cry of Freedom: The Civil War Era}
       \field{year}{1988}
     \endentry
-    \entry{davismessagespapers1966}{book}{}{}
+    \entry{davismessagespapers1966}{book}{}
       \name{editor}{2}{}{%
         {{un=0,uniquepart=base,hash=b088b1c645c2abc93378b1c16dcef540}{%
            family={Nevins},
@@ -143,12 +233,10 @@
       }
       \strng{namehash}{82551434416a6c5ed74d0187261df188}
       \strng{fullhash}{82551434416a6c5ed74d0187261df188}
-      \strng{fullhashraw}{82551434416a6c5ed74d0187261df188}
       \strng{bibnamehash}{82551434416a6c5ed74d0187261df188}
       \strng{editorbibnamehash}{82551434416a6c5ed74d0187261df188}
       \strng{editornamehash}{82551434416a6c5ed74d0187261df188}
       \strng{editorfullhash}{82551434416a6c5ed74d0187261df188}
-      \strng{editorfullhashraw}{82551434416a6c5ed74d0187261df188}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labelnamesource}{editor}
@@ -169,7 +257,7 @@
       \endverb
       \keyw{Confederate States of America -- Politics and government}
     \endentry
-    \entry{northeconomicgrowth1966}{book}{}{}
+    \entry{northeconomicgrowth1966}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c0fec5aafb39c19c83981c55d98973ce}{%
            family={North},
@@ -186,12 +274,10 @@
       }
       \strng{namehash}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{fullhash}{c0fec5aafb39c19c83981c55d98973ce}
-      \strng{fullhashraw}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{bibnamehash}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{authorbibnamehash}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{authornamehash}{c0fec5aafb39c19c83981c55d98973ce}
       \strng{authorfullhash}{c0fec5aafb39c19c83981c55d98973ce}
-      \strng{authorfullhashraw}{c0fec5aafb39c19c83981c55d98973ce}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labelnamesource}{author}
