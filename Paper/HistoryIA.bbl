@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated by
-% biber as required.
+% This file may safely be deleted. It will be recreated as
+% required.
 %
 \begingroup
 \makeatletter
@@ -16,398 +16,340 @@
   {}
 \endgroup
 
+\datalist[entry]{nty/global//global/global}
+  \entry{adamsBritainAmericanWar1925}{book}{}
+    \name{author}{1}{}{%
+      {{hash=AED}{%
+         family={Adams},
+         familyi={A\bibinitperiod},
+         given={Ephraim\bibnamedelima Douglass},
+         giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Longmans, Green \& Co. Ltd.}%
+    }
+    \strng{namehash}{AED1}
+    \strng{fullhash}{AED1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Great Britain and the American Civil War}
+    \field{volumes}{II}
+    \field{year}{1925}
+  \endentry
 
-\refsection{0}
-  \datalist[entry]{nyt/global//global/global}
-    \entry{adamsBritainAmericanWar1925}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=208fa55c352e54085d750935f77320d4}{%
-           family={Adams},
-           familyi={A\bibinitperiod},
-           given={Ephraim\bibnamedelima Douglass},
-           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Longmans, Green \& Co. Ltd.}%
-      }
-      \strng{namehash}{208fa55c352e54085d750935f77320d4}
-      \strng{fullhash}{208fa55c352e54085d750935f77320d4}
-      \strng{bibnamehash}{208fa55c352e54085d750935f77320d4}
-      \strng{authorbibnamehash}{208fa55c352e54085d750935f77320d4}
-      \strng{authornamehash}{208fa55c352e54085d750935f77320d4}
-      \strng{authorfullhash}{208fa55c352e54085d750935f77320d4}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Great Britain and the American Civil War}
-      \field{volumes}{II}
-      \field{year}{1925}
-    \endentry
-    \entry{arnoldHistoryCotton1864}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=24c3fc05db4a16fd433bc30862ba03e9}{%
-           family={Arnold},
-           familyi={A\bibinitperiod},
-           given={R.\bibnamedelimi Arthur},
-           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {London, Saunders, Otley, and Co.}%
-      }
-      \strng{namehash}{24c3fc05db4a16fd433bc30862ba03e9}
-      \strng{fullhash}{24c3fc05db4a16fd433bc30862ba03e9}
-      \strng{bibnamehash}{24c3fc05db4a16fd433bc30862ba03e9}
-      \strng{authorbibnamehash}{24c3fc05db4a16fd433bc30862ba03e9}
-      \strng{authornamehash}{24c3fc05db4a16fd433bc30862ba03e9}
-      \strng{authorfullhash}{24c3fc05db4a16fd433bc30862ba03e9}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{english}
-      \field{pagetotal}{570}
-      \field{title}{The {{History}} of the {{Cotton Famine}}, {{From}} the {{Fall}} of {{Sumter}} to the {{Passing}} of the {{Public Works Act}}}
-      \field{year}{1864}
-      \field{dateera}{ce}
-    \endentry
-    \entry{arthi2022recessions}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=40ba1d2a9e5b88eac8983c6d1b46ca24}{%
-           family={Arthi},
-           familyi={A\bibinitperiod},
-           given={Vellore},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=acf4e178e88981fa2e464c2489f58474}{%
-           family={Beach},
-           familyi={B\bibinitperiod},
-           given={Brian},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5b310e4d7fc60b4fa93edafd4f9913d8}{%
-           family={Hanlon},
-           familyi={H\bibinitperiod},
-           given={W\bibnamedelima Walker},
-           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203-2425}%
-      }
-      \strng{namehash}{9ac137315c1b592228f6b3ddea0a8b36}
-      \strng{fullhash}{9ac137315c1b592228f6b3ddea0a8b36}
-      \strng{bibnamehash}{9ac137315c1b592228f6b3ddea0a8b36}
-      \strng{authorbibnamehash}{9ac137315c1b592228f6b3ddea0a8b36}
-      \strng{authornamehash}{9ac137315c1b592228f6b3ddea0a8b36}
-      \strng{authorfullhash}{9ac137315c1b592228f6b3ddea0a8b36}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{American Economic Journal: Applied Economics}
-      \field{number}{2}
-      \field{title}{Recessions, mortality, and migration bias: Evidence from the Lancashire cotton famine}
-      \field{volume}{14}
-      \field{year}{2022}
-      \field{pages}{228\bibrangedash 255}
-      \range{pages}{28}
-    \endentry
-    \entry{baileyOtherSide1994}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ca76bbde5f37a5c9679b21804318f8ca}{%
-           family={Bailey},
-           familyi={B\bibinitperiod},
-           given={Ronald},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Agricultural History Society}%
-      }
-      \strng{namehash}{ca76bbde5f37a5c9679b21804318f8ca}
-      \strng{fullhash}{ca76bbde5f37a5c9679b21804318f8ca}
-      \strng{bibnamehash}{ca76bbde5f37a5c9679b21804318f8ca}
-      \strng{authorbibnamehash}{ca76bbde5f37a5c9679b21804318f8ca}
-      \strng{authornamehash}{ca76bbde5f37a5c9679b21804318f8ca}
-      \strng{authorfullhash}{ca76bbde5f37a5c9679b21804318f8ca}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{eprinttype}{jstor}
-      \field{issn}{00021482, 15338290}
-      \field{journaltitle}{Agricultural History}
-      \field{number}{2}
-      \field{title}{The {{Other Side}} of {{Slavery}}: {{Black Labor}}, {{Cotton}}, and {{Textile Industrialization}} in {{Great Britain}} and the {{United States}}}
-      \field{urlday}{1}
-      \field{urlmonth}{11}
-      \field{urlyear}{2024}
-      \field{volume}{68}
-      \field{year}{1994}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{35\bibrangedash 50}
-      \range{pages}{16}
-      \verb{eprint}
-      \verb 3744401
-      \endverb
-      \verb{urlraw}
-      \verb http://www.jstor.org/stable/3744401
-      \endverb
-      \verb{url}
-      \verb http://www.jstor.org/stable/3744401
-      \endverb
-    \endentry
-    \entry{ginzbergeconomicsbritish1936}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=af73c63c8cf89bdf8809ab2885eb1193}{%
-           family={Ginzberg},
-           familyi={G\bibinitperiod},
-           given={Eli},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Agricultural History Society}%
-      }
-      \strng{namehash}{af73c63c8cf89bdf8809ab2885eb1193}
-      \strng{fullhash}{af73c63c8cf89bdf8809ab2885eb1193}
-      \strng{bibnamehash}{af73c63c8cf89bdf8809ab2885eb1193}
-      \strng{authorbibnamehash}{af73c63c8cf89bdf8809ab2885eb1193}
-      \strng{authornamehash}{af73c63c8cf89bdf8809ab2885eb1193}
-      \strng{authorfullhash}{af73c63c8cf89bdf8809ab2885eb1193}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{00021482, 15338290}
-      \field{journaltitle}{Agricultural History}
-      \field{number}{4}
-      \field{title}{The Economics of British Neutrality during the American Civil War}
-      \field{urlday}{21}
-      \field{urlmonth}{11}
-      \field{urlyear}{2024}
-      \field{volume}{10}
-      \field{year}{1936}
-      \field{urldateera}{ce}
-      \field{pages}{147\bibrangedash 156}
-      \range{pages}{10}
-      \verb{urlraw}
-      \verb http://www.jstor.org/stable/3739625
-      \endverb
-      \verb{url}
-      \verb http://www.jstor.org/stable/3739625
-      \endverb
-    \endentry
-    \entry{mcphersonBattleCry1988}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e0783ca6bc52e7271001ce0bac1a9b88}{%
-           family={McPherson},
-           familyi={M\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{e0783ca6bc52e7271001ce0bac1a9b88}
-      \strng{fullhash}{e0783ca6bc52e7271001ce0bac1a9b88}
-      \strng{bibnamehash}{e0783ca6bc52e7271001ce0bac1a9b88}
-      \strng{authorbibnamehash}{e0783ca6bc52e7271001ce0bac1a9b88}
-      \strng{authornamehash}{e0783ca6bc52e7271001ce0bac1a9b88}
-      \strng{authorfullhash}{e0783ca6bc52e7271001ce0bac1a9b88}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Battle Cry of Freedom: The Civil War Era}
-      \field{year}{1988}
-    \endentry
-    \entry{davismessagespapers1966}{book}{}
-      \name{editor}{2}{}{%
-        {{un=0,uniquepart=base,hash=b088b1c645c2abc93378b1c16dcef540}{%
-           family={Nevins},
-           familyi={N\bibinitperiod},
-           given={Allan},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d17cf565cd704bd13ab9ff66942da5fb}{%
-           family={Richardson},
-           familyi={R\bibinitperiod},
-           given={James\bibnamedelima D.},
-           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {New York, Chelsea House-R. Hector}%
-      }
-      \strng{namehash}{82551434416a6c5ed74d0187261df188}
-      \strng{fullhash}{82551434416a6c5ed74d0187261df188}
-      \strng{bibnamehash}{82551434416a6c5ed74d0187261df188}
-      \strng{editorbibnamehash}{82551434416a6c5ed74d0187261df188}
-      \strng{editornamehash}{82551434416a6c5ed74d0187261df188}
-      \strng{editorfullhash}{82551434416a6c5ed74d0187261df188}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{2 v. 25 cm; Previously published under title: A compilation of the messages and papers of the Confederacy, including the diplomatic correspondence, 1861-1865}
-      \field{langid}{english}
-      \field{pagetotal}{790}
-      \field{title}{The Messages and Papers of {{Jefferson Davis}} and the {{Confederacy}}, Including Diplomatic Correspondence, 1861-1865}
-      \field{volume}{II}
-      \field{volumes}{II}
-      \field{year}{1966}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb http://archive.org/details/messagespapersof02conf
-      \endverb
-      \verb{url}
-      \verb http://archive.org/details/messagespapersof02conf
-      \endverb
-      \keyw{Confederate States of America -- Politics and government}
-    \endentry
-    \entry{northeconomicgrowth1966}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c0fec5aafb39c19c83981c55d98973ce}{%
-           family={North},
-           familyi={N\bibinitperiod},
-           given={Douglass\bibnamedelima Cecil},
-           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Norton}%
-      }
-      \strng{namehash}{c0fec5aafb39c19c83981c55d98973ce}
-      \strng{fullhash}{c0fec5aafb39c19c83981c55d98973ce}
-      \strng{bibnamehash}{c0fec5aafb39c19c83981c55d98973ce}
-      \strng{authorbibnamehash}{c0fec5aafb39c19c83981c55d98973ce}
-      \strng{authornamehash}{c0fec5aafb39c19c83981c55d98973ce}
-      \strng{authorfullhash}{c0fec5aafb39c19c83981c55d98973ce}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-0-393-00346-8}
-      \field{langid}{english}
-      \field{number}{346}
-      \field{pagetotal}{304}
-      \field{series}{The {{Norton}} Library}
-      \field{title}{The Economic Growth of the {{United States}} 1790 - 1860}
-      \field{year}{1966}
-      \field{dateera}{ce}
-    \endentry
-    \entry{owsleyIrrepressibleConflict1930}{inbook}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ef2da17c07eda3d27193a4ae55ff68c1}{%
-           family={Owsley},
-           familyi={O\bibinitperiod},
-           given={Frank\bibnamedelima Lawrence},
-           giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Harper \& Brothers}%
-      }
-      \strng{namehash}{ef2da17c07eda3d27193a4ae55ff68c1}
-      \strng{fullhash}{ef2da17c07eda3d27193a4ae55ff68c1}
-      \strng{bibnamehash}{ef2da17c07eda3d27193a4ae55ff68c1}
-      \strng{authorbibnamehash}{ef2da17c07eda3d27193a4ae55ff68c1}
-      \strng{authornamehash}{ef2da17c07eda3d27193a4ae55ff68c1}
-      \strng{authorfullhash}{ef2da17c07eda3d27193a4ae55ff68c1}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{chapter}{The Irrepressible Conflict}
-      \field{title}{I'll Take My Stand: The South and the Agrarian Tradition}
-      \field{year}{1930}
-      \field{pages}{61\bibrangedash 91}
-      \range{pages}{31}
-    \endentry
-    \entry{steeleOntologicalSecurity2005}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1ac65bc955e268d52c45ec94a0d9780e}{%
-           family={Steele},
-           familyi={S\bibinitperiod},
-           given={Brent\bibnamedelima J.},
-           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{1ac65bc955e268d52c45ec94a0d9780e}
-      \strng{fullhash}{1ac65bc955e268d52c45ec94a0d9780e}
-      \strng{bibnamehash}{1ac65bc955e268d52c45ec94a0d9780e}
-      \strng{authorbibnamehash}{1ac65bc955e268d52c45ec94a0d9780e}
-      \strng{authornamehash}{1ac65bc955e268d52c45ec94a0d9780e}
-      \strng{authorfullhash}{1ac65bc955e268d52c45ec94a0d9780e}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{[Why did Great Britain remain neutral during the American Civil War? Although several historical arguments have been put forth, few studies have explicitly used International Relations (IR) theories to understand this decision. Synthesising a discursive approach with an ontological security interpretation, I propose an alternative framework for understanding security-seeking behaviour and threats to identity. I assess the impact Abraham Lincoln's Emancipation Proclamation had upon the interventionist debates in Great Britain. I argue that the Proclamation reframed interventionist debates, thus (re)engendering the British anxiety over slavery and removing intervention as a viable policy. I conclude by proposing several issues relevant to using an ontological security interpretation in future IR studies.]}
-      \field{eprinttype}{jstor}
-      \field{issn}{02602105, 14699044}
-      \field{journaltitle}{Review of International Studies}
-      \field{number}{3}
-      \field{title}{Ontological {{Security}} and the {{Power}} of {{Self-Identity}}: {{British Neutrality}} and the {{American Civil War}}}
-      \field{urlday}{1}
-      \field{urlmonth}{11}
-      \field{urlyear}{2024}
-      \field{volume}{31}
-      \field{year}{2005}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{519\bibrangedash 540}
-      \range{pages}{22}
-      \verb{eprint}
-      \verb 40072087
-      \endverb
-      \verb{urlraw}
-      \verb http://www.jstor.org/stable/40072087
-      \endverb
-      \verb{url}
-      \verb http://www.jstor.org/stable/40072087
-      \endverb
-    \endentry
-    \entry{u.s.congressImportsduties1884}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=64100b7a9fdd838d2fbb8327201d29b9}{%
-           family={U.S.\bibnamedelimi Congress},
-           familyi={U\bibinitperiod\bibinitdelim C\bibinitperiod},
-           given={House\bibnamedelimb of\bibnamedelima Representatives},
-           giveni={H\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {48th Cong., 1st. sess.}%
-      }
-      \strng{namehash}{64100b7a9fdd838d2fbb8327201d29b9}
-      \strng{fullhash}{64100b7a9fdd838d2fbb8327201d29b9}
-      \strng{bibnamehash}{64100b7a9fdd838d2fbb8327201d29b9}
-      \strng{authorbibnamehash}{64100b7a9fdd838d2fbb8327201d29b9}
-      \strng{authornamehash}{64100b7a9fdd838d2fbb8327201d29b9}
-      \strng{authorfullhash}{64100b7a9fdd838d2fbb8327201d29b9}
-      \field{sortinit}{U}
-      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A compilation of foreign commodities imported and entered for consumption in the United States ; showing the quantities, values, rates of duty, amount of duty received, the average cost, and duties reduced to an equivalent ad valorem rate ; summaries of the values and duties of the principal class or groups ; also, values and duties received and expense at each Customs district and port of delivery ; with schedules of the articles, quantities, and values admitted free of duty, viz: transfers from bond to manufacturing warehouse, materials used in the construction and equipment of vessels, from dominion of Canada, \&c., from the Hawaiian Islands, and salt used in curing fish, during the fiscal years ended June 30, 1867 to 1883, inclusive}
-      \field{title}{H. Misc. Doc. no. 49}
-      \field{year}{1884}
-      \field{dateera}{ce}
-    \endentry
-  \enddatalist
-\endrefsection
+  \entry{arnoldHistoryCotton1864}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ARA}{%
+         family={Arnold},
+         familyi={A\bibinitperiod},
+         given={R.\bibnamedelima Arthur},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{London, Saunders, Otley, and Co.}}%
+    }
+    \strng{namehash}{ARA1}
+    \strng{fullhash}{ARA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{pagetotal}{570}
+    \field{title}{The {{History}} of the {{Cotton Famine}}, {{From}} the {{Fall}} of {{Sumter}} to the {{Passing}} of the {{Public Works Act}}}
+    \field{langid}{english}
+    \field{year}{1864}
+  \endentry
+
+  \entry{arthi2022recessions}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AV}{%
+         family={Arthi},
+         familyi={A\bibinitperiod},
+         given={Vellore},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=BB}{%
+         family={Beach},
+         familyi={B\bibinitperiod},
+         given={Brian},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HWW}{%
+         family={Hanlon},
+         familyi={H\bibinitperiod},
+         given={W\bibnamedelima Walker},
+         giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Economic Association}%
+    }
+    \strng{namehash}{AVBBHWW1}
+    \strng{fullhash}{AVBBHWW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{228\bibrangedash 255}
+    \field{title}{Recessions, mortality, and migration bias: Evidence from the Lancashire cotton famine}
+    \field{volume}{14}
+    \field{journaltitle}{American Economic Journal: Applied Economics}
+    \field{year}{2022}
+  \endentry
+
+  \entry{baileyOtherSide1994}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BR}{%
+         family={Bailey},
+         familyi={B\bibinitperiod},
+         given={Ronald},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Agricultural History Society}%
+    }
+    \strng{namehash}{BR1}
+    \strng{fullhash}{BR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{eprint}
+    \verb 3744401
+    \endverb
+    \field{issn}{00021482, 15338290}
+    \field{number}{2}
+    \field{pages}{35\bibrangedash 50}
+    \field{title}{The {{Other Side}} of {{Slavery}}: {{Black Labor}}, {{Cotton}}, and {{Textile Industrialization}} in {{Great Britain}} and the {{United States}}}
+    \verb{url}
+    \verb http://www.jstor.org/stable/3744401
+    \endverb
+    \field{volume}{68}
+    \field{journaltitle}{Agricultural History}
+    \field{eprinttype}{jstor}
+    \field{year}{1994}
+    \field{urlday}{01}
+    \field{urlmonth}{11}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{ginzbergeconomicsbritish1936}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GE}{%
+         family={Ginzberg},
+         familyi={G\bibinitperiod},
+         given={Eli},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Agricultural History Society}%
+    }
+    \strng{namehash}{GE1}
+    \strng{fullhash}{GE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{issn}{00021482, 15338290}
+    \field{number}{4}
+    \field{pages}{147\bibrangedash 156}
+    \field{title}{The Economics of British Neutrality during the American Civil War}
+    \verb{url}
+    \verb http://www.jstor.org/stable/3739625
+    \endverb
+    \field{volume}{10}
+    \field{journaltitle}{Agricultural History}
+    \field{year}{1936}
+    \field{urlday}{21}
+    \field{urlmonth}{11}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{mcphersonBattleCry1988}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MJ}{%
+         family={McPherson},
+         familyi={M\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{MJ1}
+    \strng{fullhash}{MJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Battle Cry of Freedom: The Civil War Era}
+    \field{year}{1988}
+  \endentry
+
+  \entry{davismessagespapers1966}{book}{}
+    \name{editor}{2}{}{%
+      {{hash=NA}{%
+         family={Nevins},
+         familyi={N\bibinitperiod},
+         given={Allan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RJD}{%
+         family={Richardson},
+         familyi={R\bibinitperiod},
+         given={James\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {New York, Chelsea House-R. Hector}%
+    }
+    \keyw{Confederate States of America -- Politics and government}
+    \strng{namehash}{NARJD1}
+    \strng{fullhash}{NARJD1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    2 v. 25 cm; Previously published under title: A compilation of the messages and papers of the Confederacy, including the diplomatic correspondence, 1861-1865%
+    }
+    \field{pagetotal}{790}
+    \field{title}{The Messages and Papers of {{Jefferson Davis}} and the {{Confederacy}}, Including Diplomatic Correspondence, 1861-1865}
+    \verb{url}
+    \verb http://archive.org/details/messagespapersof02conf
+    \endverb
+    \field{volumes}{II}
+    \field{volume}{II}
+    \field{langid}{english}
+    \field{year}{1966}
+  \endentry
+
+  \entry{northeconomicgrowth1966}{book}{}
+    \name{author}{1}{}{%
+      {{hash=NDC}{%
+         family={North},
+         familyi={N\bibinitperiod},
+         given={Douglass\bibnamedelima Cecil},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Norton}%
+    }
+    \strng{namehash}{NDC1}
+    \strng{fullhash}{NDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{isbn}{978-0-393-00346-8}
+    \field{number}{346}
+    \field{pagetotal}{304}
+    \field{series}{The {{Norton}} Library}
+    \field{title}{The Economic Growth of the {{United States}} 1790 - 1860}
+    \field{langid}{english}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{1966}
+  \endentry
+
+  \entry{owsleyIrrepressibleConflict1930}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=OFL}{%
+         family={Owsley},
+         familyi={O\bibinitperiod},
+         given={Frank\bibnamedelima Lawrence},
+         giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harper \& Brothers}%
+    }
+    \strng{namehash}{OFL1}
+    \strng{fullhash}{OFL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{chapter}{The Irrepressible Conflict}
+    \field{pages}{61\bibrangedash 91}
+    \field{title}{I'll Take My Stand: The South and the Agrarian Tradition}
+    \field{year}{1930}
+  \endentry
+
+  \entry{steeleOntologicalSecurity2005}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SBJ}{%
+         family={Steele},
+         familyi={S\bibinitperiod},
+         given={Brent\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{SBJ1}
+    \strng{fullhash}{SBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    [Why did Great Britain remain neutral during the American Civil War? Although several historical arguments have been put forth, few studies have explicitly used International Relations (IR) theories to understand this decision. Synthesising a discursive approach with an ontological security interpretation, I propose an alternative framework for understanding security-seeking behaviour and threats to identity. I assess the impact Abraham Lincoln's Emancipation Proclamation had upon the interventionist debates in Great Britain. I argue that the Proclamation reframed interventionist debates, thus (re)engendering the British anxiety over slavery and removing intervention as a viable policy. I conclude by proposing several issues relevant to using an ontological security interpretation in future IR studies.]%
+    }
+    \verb{eprint}
+    \verb 40072087
+    \endverb
+    \field{issn}{02602105, 14699044}
+    \field{number}{3}
+    \field{pages}{519\bibrangedash 540}
+    \field{title}{Ontological {{Security}} and the {{Power}} of {{Self-Identity}}: {{British Neutrality}} and the {{American Civil War}}}
+    \verb{url}
+    \verb http://www.jstor.org/stable/40072087
+    \endverb
+    \field{volume}{31}
+    \field{journaltitle}{Review of International Studies}
+    \field{eprinttype}{jstor}
+    \field{year}{2005}
+    \field{urlday}{01}
+    \field{urlmonth}{11}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{u.s.congressImportsduties1884}{report}{}
+    \name{author}{1}{}{%
+      {{hash=UCHoR}{%
+         family={U.S.\bibnamedelima Congress},
+         familyi={U\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={House of\bibnamedelima Representatives},
+         giveni={H\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{UCHoR1}
+    \strng{fullhash}{UCHoR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{abstract}{%
+    A compilation of foreign commodities imported and entered for consumption in the United States ; showing the quantities, values, rates of duty, amount of duty received, the average cost, and duties reduced to an equivalent ad valorem rate ; summaries of the values and duties of the principal class or groups ; also, values and duties received and expense at each Customs district and port of delivery ; with schedules of the articles, quantities, and values admitted free of duty, viz: transfers from bond to manufacturing warehouse, materials used in the construction and equipment of vessels, from dominion of Canada, \&c., from the Hawaiian Islands, and salt used in curing fish, during the fiscal years ended June 30, 1867 to 1883, inclusive%
+    }
+    \field{title}{H. Misc. Doc. no. 49}
+    \list{institution}{1}{%
+      {48th Cong., 1st. sess.}%
+    }
+    \field{year}{1884}
+  \endentry
+\enddatalist
 \endinput
-
