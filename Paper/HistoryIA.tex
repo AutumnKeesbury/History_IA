@@ -4,16 +4,19 @@
 
 % TEXT STYLING
 %---------------------------------------------------------------------------------------------------------%
-\usepackage[T1]{fontenc}     % We are using pdfLaTeX,
-\usepackage[utf8]{inputenc}  % hence this preparation
+\usepackage{fontspec} % Using LuaLaTeX or XeLaTeX, fontspec is used for OpenType fonts
+\usepackage{luaotfload}
+\setmainfont{Georgia}
 \usepackage{csquotes}
 \usepackage[english]{babel}
 \usepackage{fancyhdr}
 \usepackage{wrapfig}
-\newcommand{\subtitle}[1]{\\ 
-    \begin{large}
-        \textbf{#1}
-    \end{large}   
+\usepackage{titling}
+\newcommand{\subtitle}[1]{%
+  \posttitle{%
+    \par\end{center}
+    \large#1
+    \vskip0.5em}%
 }
 \usepackage[
     left = \flqq{},% 
@@ -54,8 +57,6 @@
 %% TOC SETTINGS
 %---------------------------------------------------------------------------------------------------------%
 \usepackage{titlesec, bookmark}
-\addto\captionsenglish{\renewcommand*\contentsname{Contents}}
-\usepackage{tocbibind}
 %---------------------------------------------------------------------------------------------------------%
 
 %% PAGE GEOMETRY
@@ -94,10 +95,11 @@ top=60pt
 
 \usepackage{subfiles}
 
-\title{Title!
-\subtitle{Research Question :3}}
-\author{Meow}
-\date{Word Count :3}
+\title{History Internal Assessment}
+\subtitle{Guiding Question: How did the Export of Southern Raw Cotton to Great Britain Influence Its Willingness to Recognize the
+Confederate States of America as a Sovereign Nation?}
+\author{IB History of the Americas}
+\date{\textbf{Word Count: 2626}}
 
 \begin{document}
 
