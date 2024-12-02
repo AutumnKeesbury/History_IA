@@ -263,7 +263,7 @@
     \field{year}{1966}
   \endentry
 
-  \entry{owsleyIrrepressibleConflict1930}{inbook}{}
+  \entry{owsleyIrrepressibleConflict1930}{incollection}{}
     \name{author}{1}{}{%
       {{hash=OFL}{%
          family={Owsley},
@@ -281,9 +281,9 @@
     \field{labeltitlesource}{title}
     \field{sortinit}{O}
     \field{sortinithash}{O}
-    \field{chapter}{{{The Irrepressible Conflict}}}
+    \field{booktitle}{I'll Take My Stand: The South and the Agrarian Tradition}
     \field{pages}{61\bibrangedash 91}
-    \field{title}{I'll Take My Stand: The South and the Agrarian Tradition}
+    \field{title}{{{The Irrepressible Conflict}}}
     \field{year}{1930}
   \endentry
 
