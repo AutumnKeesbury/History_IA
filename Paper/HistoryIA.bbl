@@ -139,6 +139,33 @@
     \field{urlyear}{2024}
   \endentry
 
+  \entry{ewanEmancipationProclamation2005}{article}{}
+    \name{author}{1}{}{%
+      {{hash=EC}{%
+         family={Ewan},
+         familyi={E\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EC1}
+    \strng{fullhash}{EC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 19}
+    \field{title}{The {{Emancipation Proclamation}} and {{British Public Opinion}}}
+    \field{volume}{67}
+    \verb{file}
+    \verb /Users/autumn_keesbury/Zotero/storage/LY33WSWT/Ewan - 2005 - The Eman
+    \verb cipation Proclamation and British Public O.pdf
+    \endverb
+    \field{journaltitle}{The Historian}
+    \field{year}{2005}
+  \endentry
+
   \entry{ginzbergeconomicsbritish1936}{article}{}
     \name{author}{1}{}{%
       {{hash=GE}{%

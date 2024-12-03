@@ -4,3 +4,4 @@
 {"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qginzbergeconomicsbritish1936.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcompat = 1.18\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QWith the famine gone, and thereby the immediate want for cotton lessened, in tandem with a key addition to the Union's stated war aims through the Emancipation Proclamation, the Palmerston government was no longer in a position which even slightly justified recognition in the eyes of the publicDummies.\\E$"}
